@@ -1,0 +1,6 @@
+ESTRUCTURA DE LA PÁGINA WEB 
+
+<head>
+<title></title>
+</head>
+
