@@ -4,3 +4,4 @@ ESTRUCTURA DE LA PÁGINA WEB
 <title></title>
 </head>
 
+el diseño de la pagina sera rojo y verde 
