@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 DÍA=2
 MES= MARZO
 NOMBRE= LUIS 
+=======
+DÍA= 5
+MES= ENERO
+NOMBRE= Alejandro 
+>>>>>>> compañerocuatro
